@@ -1,2 +1,3 @@
-# projeto-d1
-Desafio Proposto pela D1 
+# API D1
+Linguagem: C# - dotnet 3.1
+Bando de Dados: Mongodb
